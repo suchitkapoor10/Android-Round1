@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="list_title">
+        <item>Base</item>
+        <item>BestPrice</item>
+        <item>CannotRedeem</item>
+        <item>CityCoverage</item>
+        <item>CityPromotion</item>
+        <item>CityUnknown</item>
+        <item>CreditsEmpty</item>
+        <item>CreditsList</item>
+        <item>CreditsListExpired</item>
+        <item>CreditsListUsed</item>
+        <item>CreditsOverview</item>
+        <item>Discount</item>
+        <item>Faq</item>
+        <item>ForcedRegistration</item>
+        <item>ForHotels</item>
+        <item>GuestInfoRequired</item>
+        <item>Hotelquickly</item>
+        <item>HowDoesItWork</item>
+        <item>HowToShare</item>
+        <item>Index</item>
+        <item>Jobs</item>
+        <item>LineDemo</item>
+        <item>LocationUnknown</item>
+        <item>LoyaltyProgram</item>
+        <item>News</item>
+        <item>NoCreditForOrder</item>
+        <item>NotificationList</item>
+        <item>OfferInfo</item>
+        <item>OfferReviews</item>
+        <item>OrderCalculation</item>
+        <item>OrdersSavings</item>
+        <item>PointsOfInterest</item>
+        <item>Policy</item>
+        <item>PriceGuaranteeDetail</item>
+        <item>PriceGuaranteeOverview</item>
+        <item>Roomsinfo</item>
+        <item>RoomsOfferInfo</item>
+        <item>SecurityInfo</item>
+        <item>Shaking</item>
+        <item>SharingContacts</item>
+        <item>SharingDetails</item>
+        <item>SharingOverview</item>
+        <item>SoldOut</item>
+        <item>Support</item>
+        <item>Terms</item>
+        <item>TermsReferrals</item>
+        <item>WhySoFew</item>
+    </array>
+
+</resources>
