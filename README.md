@@ -24,7 +24,9 @@ Please write clean & maintainable code to implement the relevant functionality. 
 
 ### Bonus questions
 * If URL of webview changes, will application load content from new URL?
+* Yes
 * We would like to have a link in webview, that will open some native screen in application. Is it possible? How would you do it?
+Ans - We can redirect from webveiw page to activity through predefind url. When user click on any link in webview the url would be change and we can redirect this to native activity by comparing redirected url to predefind url.(You can look in my code in WebViewActivity in function onPageStarted() of CustomWebView class(inner class)).
 
 ### Todo
 * In GitHub, fork this repository to you own account
